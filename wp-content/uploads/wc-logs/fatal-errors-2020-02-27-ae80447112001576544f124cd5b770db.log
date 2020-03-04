@@ -1,0 +1,4 @@
+2020-02-27T06:12:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\UwAmp\www\slcompetition\wp-content\plugins\elementor\core\kits\documents\kit.php à la ligne 2
+
+2020-02-27T07:00:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\UwAmp\www\slcompetition\wp-includes\Requests\Transport\cURL.php à la ligne 462
+
